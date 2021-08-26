@@ -33,6 +33,31 @@ https://user-images.githubusercontent.com/71205815/131003799-5ab6a1ca-6d92-4f35-
 ![](https://user-images.githubusercontent.com/71205815/131006071-54d91812-8e08-4c85-802f-88ac19ade91c.png)
 
 
+## Directory Structure
+```
+lib
+│-- main.dart
+│-- configMaps.dart
+└───|
+    └───All Widgets
+    |    │──Divider.dart
+    |    │──progressDialog.dart
+    └────All Screens
+    |     │──aboutScreen.dart
+    |     └──loginScreen.dart 
+    |     └──mainScreen.dart 
+    |     └──profileTabPage.dart 
+    |     └──registrationScreen.dart 
+    |     └──searchScreen.dart 
+    └────Assistants
+    |     │──assistantMethods.dart
+    |     |──requestAssistant.dart
+    └────DataHandler
+    |     │──appData.dart
+    └────Models
+          │──address.dart
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
